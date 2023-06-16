@@ -17,3 +17,12 @@ Menu
 3 – Mostrar texto
 
 9 - Sair
+
+
+
+#### Modificações futuras:
+  
+  
+- Possibilidade de escolher o nome do arquivo a ser lido ou gravado
+- Inclusão de outros algorítmos de criptografia
+- Efeitos visuais (texto sendo criptogafado em tela)
